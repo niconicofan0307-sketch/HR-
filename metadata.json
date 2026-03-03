@@ -1,0 +1,5 @@
+{
+  "name": "AI Interviewer Pro",
+  "description": "An AI-powered interview screening tool for HR to automate initial candidate assessments using video interviews and Gemini AI.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
